@@ -160,7 +160,7 @@ VII 补录
 * [ ] 125: 人间踏浪，唯物主义辩证法救了一位惨绿少年
 * [ ] 126: 阿姆斯特丹的水鬼
 * [ ] 127: 在深夜我们围成一个圈跳一种舞
-* [ ] 128: 国王孤独，或雨从未到来
+* [x] 128: [国王孤独，或雨从未到来](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/guo-wang-gu-du-huo-yu-cong-wei-dao-lai)
 * [ ] 129: 猴面包。猴面包树。高树玛利亚。（河间指南 2.0remix）
 * [ ] 130: 冬至 老公今天崩溃了（温馨感人）
 * [ ] 131: 太冷了
@@ -185,8 +185,8 @@ VII 补录
 * [ ] 150: 一个狗和大山
 * [ ] 151: 一个狗和河
 * [ ] 152: 下午在大润发水产区闲逛，看见一条鲫鱼吹牛
-* [ ] 153: [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le)
-* [ ] 154: [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
+* [x] 153: [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le)
+* [x] 154: [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
 
 VII 拾遗
 
@@ -239,4 +239,3 @@ VII 拾遗
 
 1. 本项目所有内容都是出于文学研究目的收集，如有侵犯权益，请联系本人删除。
 2. 本项目所有内容仅供个人阅读使用，禁止用作商业用途。
-
