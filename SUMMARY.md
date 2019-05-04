@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [关于本文集](README.md)
 * [封面](cover.md)
@@ -6,7 +6,6 @@
 * [序](xu.md)
 
 ## Part I 小说与散文
-
 * [处女](parti-xiao-shuo-yu-san-wen/chu-nv.md)
 * [陈大壮](parti-xiao-shuo-yu-san-wen/chen-da-zhuang.md)
 * [说一说在我老家，庄稼的种植情况](parti-xiao-shuo-yu-san-wen/shuo-yi-shuo-zai-wo-lao-jia-zhuang-jia-de-zhong-zhi-qing-kuang.md)
@@ -19,7 +18,7 @@
 * [现在可以准备了](parti-xiao-shuo-yu-san-wen/xian-zai-ke-yi-zhun-bei-le.md)
 * [这样的人活在世上到底是体制的悲哀还是个体惨剧，你说？](parti-xiao-shuo-yu-san-wen/zhe-yang-de-ren-huo-zai-shi-shang-dao-di-shi-ti-zhi-de-bei-ai-hai-shi-ge-ti-can-ju-ni-shuo.md)
 * [“亚拉嗦 那就是北海公园”](parti-xiao-shuo-yu-san-wen/ya-la-suo-na-jiu-shi-bei-hai-gong-yuan.md)
-* [\(德味\) 我突然发现我使用诺基亚的方向完全错了](parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le.md)
+* [(德味) 我突然发现我使用诺基亚的方向完全错了](parti-xiao-shuo-yu-san-wen/de-wei-wo-tu-ran-fa-xian-wo-shi-yong-nuo-ji-ya-de-fang-xiang-wan-quan-cuo-le.md)
 * [冬至老公崩溃了（温馨感人）](parti-xiao-shuo-yu-san-wen/dong-zhi-lao-gong-beng-kui-le-wen-gan-ren.md)
 * [活在裆下：时代的晚上](parti-xiao-shuo-yu-san-wen/huo-zai-dang-xia-shi-dai-de-wan-shang.md)
 * [一次突如其来的性生活](parti-xiao-shuo-yu-san-wen/yi-ci-tu-ru-qi-lai-de-xing-sheng-huo.md)
@@ -44,7 +43,6 @@
 * [黄浦江深夜致电某领导，黄浦江有话要讲！](parti-xiao-shuo-yu-san-wen/huang-pu-jiang-shen-ye-zhi-dian-mou-ling-dao-huang-pu-jiang-you-hua-yao-jiang.md)
 
 ## Part II 诗歌
-
 * [七月](part-ii-shi-ge/qi-yue.md)
 * [一段时期的平原生活](part-ii-shi-ge/yi-duan-shi-qi-de-ping-yuan-sheng-huo.md)
 * [平原上的老王](part-ii-shi-ge/ping-yuan-shang-de-lao-wang.md)
@@ -63,7 +61,6 @@
 * [怎么同意地球是圆的](part-ii-shi-ge/zen-me-tong-yi-di-qiu-shi-yuan-de.md)
 
 ## PART III 段子与微评
-
 * [几个长镜头素材](part-iii-duan-zi-yu-wei-ping/ji-ge-chang-jing-tou-su-cai.md)
 * [吃与境界](part-iii-duan-zi-yu-wei-ping/chi-yu-jing-jie.md)
 * [畅销仁波切](part-iii-duan-zi-yu-wei-ping/chang-xiao-ren-bo-qie.md)
@@ -128,24 +125,19 @@
 * [中产阶级](part-iii-duan-zi-yu-wei-ping/zhong-chan-jie-ji.md)
 
 ## PART IV 野生郭东林仿写
-
 * [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren.md)
 
 ## PART V 知乎网严肃文学评论家文评集锦
-
 * [Untitled](partv-zhi-hu-wang-yan-su-wen-xue-ping-lun-jia-wen-ping-ji-jin/untitled.md)
 
 ## PART IV 后记
-
 * [Untitled](part-iv-hou-ji/untitled.md)
 
 ## PART VII 补录
-
-* [Untitled](part-vii-bu-lu/untitled.md)
+* [国王孤独，或雨从未到来](part-vii-bu-lu/guo-wang-gu-du-huo-yu-cong-wei-dao-lai.md)
 * [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le.md)
 * [现实中骚的女的到底多不多](part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo.md)
 
 ## PART VII 拾遗
-
 * [特师拾遗](part-vii-shi-yi/te-shi-shi-yi.md)
 
